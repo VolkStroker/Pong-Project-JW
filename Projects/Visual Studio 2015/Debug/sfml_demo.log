@@ -1,0 +1,7 @@
+﻿  Ball.cpp
+C:\Users\Jordan\Desktop\Pong Project\Ball.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jordan\Desktop\Pong Project\Ball.cpp(11,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Paddle.cpp
+  Generating Code...
+  sfml_demo.vcxproj -> C:\Users\Jordan\Desktop\Pong Project\Projects\Visual Studio 2015\Debug\sfml_demo.exe
